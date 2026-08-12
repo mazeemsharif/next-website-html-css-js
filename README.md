@@ -2,9 +2,6 @@
 
 A clean, fully responsive multipage brand website built with **HTML5**, **CSS3**, and **Vanilla JavaScript**. Designed with a mobile-first approach and modern UI elements.
 
-## 🔗 Live Demo
-- [View Project](https://your-username.github.io/next-responsive-website)
-
 ## 📸 Screenshots
 ![alt text](image.png)
 
