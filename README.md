@@ -23,7 +23,6 @@ A clean, fully responsive multipage brand website built with **HTML5**, **CSS3**
 | Vanilla JS | Hamburger menu toggle (no frameworks) |
 
 ## 📁 Project Structure
-
 next-responsive-website/
 │
 ├── index.html # Home page
