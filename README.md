@@ -5,7 +5,6 @@ A clean, fully responsive multipage brand website built with **HTML5**, **CSS3**
 ## 📸 Screenshots
 ![alt text](image.png)
 
-
 ## ✨ Features
 - Fully responsive layout (mobile-first design)
 - Mobile hamburger menu with JavaScript toggle
