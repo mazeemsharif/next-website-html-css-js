@@ -3,7 +3,8 @@
 A clean, fully responsive multipage brand website built with **HTML5**, **CSS3**, and **Vanilla JavaScript**. Designed with a mobile-first approach and modern UI elements.
 
 ## 📸 Screenshots
-![alt text](image.png)
+<img width="1847" height="944" alt="image" src="https://github.com/user-attachments/assets/02d05c9f-a040-40c2-82a9-d2e7036a50a5" />
+
 
 ## ✨ Features
 - Fully responsive layout (mobile-first design)
