@@ -2,11 +2,16 @@
 
 A clean, fully responsive multipage brand website built with **HTML5**, **CSS3**, and **Vanilla JavaScript**. Designed with a mobile-first approach and modern UI elements.
 
-## 📸 Screenshots
-<img width="1847" height="944" alt="image" src="https://github.com/user-attachments/assets/02d05c9f-a040-40c2-82a9-d2e7036a50a5" />
+---
 
+## 📸 Screenshots
+
+<img width="1847" alt="image" src="https://github.com/user-attachments/assets/02d05c9f-a040-40c2-82a9-d2e7036a50a5" />
+
+---
 
 ## ✨ Features
+
 - Fully responsive layout (mobile-first design)
 - Mobile hamburger menu with JavaScript toggle
 - Multi-page navigation (Home & Tech pages)
@@ -15,12 +20,17 @@ A clean, fully responsive multipage brand website built with **HTML5**, **CSS3**
 - Font Awesome icons integration
 - Clean, semantic HTML structure
 
+---
+
 ## 🛠️ Tech Stack
+
 | Technology | Purpose |
 |------------|---------|
 | HTML5 | Semantic structure |
 | CSS3 | Styling, Flexbox, Grid |
 | Vanilla JS | Hamburger menu toggle (no frameworks) |
+
+---
 
 ## 📁 Project Structure
 next-website-html-css-js/
@@ -38,7 +48,12 @@ next-website-html-css-js/
 ├── andras-vas-unsplash.jpg
 └── christopher-gower-unsplash.jpg
 
+text
+
+---
+
 ## 🚀 Getting Started
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/mazeemsharif/next-website-html-css-js.git
@@ -49,29 +64,13 @@ No build tools or dependencies required.
 📄 License
 MIT License – feel free to use and modify.
 
-text
+🙌 Acknowledgments
+Built as part of a front-end web development learning journey
 
----
+Inspired by modern responsive design principles
 
-## 🎯 Next Steps
+Images sourced from Unsplash
 
-1. **Enable GitHub Pages** to host your site:
-   - Go to your repository → **Settings** → **Pages**
-   - Under **Branch**, select `main` and save
-   - Your site will be live at: `https://mazeemsharif.github.io/next-website-html-css-js`
-
-2. **Share your LinkedIn post** with the link to your GitHub repository!
-
-3. **Keep building** – add more features, fix the README, and continue learning!
-
----
-
-## 🏁 Congratulations!
-
-You've successfully:
-- Built a fully responsive website from scratch
-- Fixed numerous bugs and syntax errors
-- Deployed it to GitHub
-- Are ready to share it with the world
-
-**Well done! 🚀**
+📞 Contact
+Mazeem Sharif
+GitHub: @mazeemsharif
