@@ -32,7 +32,7 @@ A clean, fully responsive multipage brand website built with **HTML5**, **CSS3**
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 next-website-html-css-js/
 │
 ├── index.html # Home page
