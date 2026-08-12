@@ -25,16 +25,27 @@ A clean, fully responsive multipage brand website built with **HTML5**, **CSS3**
 next-website-html-css-js/
 │
 ├── index.html # Home page
+
 ├── tech.html # Tech page
+
 ├── styles.css # All styles
+
 ├── app.js # JavaScript functionality
+
 │
+
 └── images/ # Image assets
+
 ├── pic1.svg
+
 ├── pic2.jpg
+
 ├── pic3.jpg
+
 ├── pic4.jpg
+
 ├── andras-vas-unsplash.jpg
+
 └── christopher-gower-unsplash.jpg
 
 text
