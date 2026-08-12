@@ -23,7 +23,7 @@ A clean, fully responsive multipage brand website built with **HTML5**, **CSS3**
 | Vanilla JS | Hamburger menu toggle (no frameworks) |
 
 ## 📁 Project Structure
-next-responsive-website/
+next-website-html-css-js/
 │
 ├── index.html # Home page
 ├── tech.html # Tech page
@@ -35,30 +35,18 @@ next-responsive-website/
 ├── pic2.jpg
 ├── pic3.jpg
 ├── pic4.jpg
-├── christopher-gower-.jpg
-└── andras-vas-.jpg
+├── andras-vas-.jpg
+└── christopher-gower-.jpg
 
 text
 
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/next-responsive-website.git
+   git clone https://github.com/mazeemsharif/next-website-html-css-js.git
 Open index.html directly in your browser.
 
 No build tools or dependencies required.
-
-📚 What I Learned
-Building responsive layouts from scratch
-
-Debugging CSS and JavaScript issues systematically
-
-Structuring a multipage static website
-
-Using Git for version control
-
-🤝 Contributing
-This is a personal portfolio project. Suggestions and feedback are welcome!
 
 📄 License
 MIT License – feel free to use and modify.
@@ -67,42 +55,25 @@ text
 
 ---
 
-## 5. .gitignore (Create a file called `.gitignore`)
-OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+## 🎯 Next Steps
 
-Editor files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
+1. **Enable GitHub Pages** to host your site:
+   - Go to your repository → **Settings** → **Pages**
+   - Under **Branch**, select `main` and save
+   - Your site will be live at: `https://mazeemsharif.github.io/next-website-html-css-js`
 
-Temporary files
-*.tmp
-*.log
+2. **Share your LinkedIn post** with the link to your GitHub repository!
 
-text
+3. **Keep building** – add more features, fix the README, and continue learning!
 
 ---
 
-## 6. License (MIT)
-Create a file called `LICENSE` and paste:
-MIT License
+## 🏁 Congratulations!
 
-Copyright (c) 2026 [Your Name]
+You've successfully:
+- Built a fully responsive website from scratch
+- Fixed numerous bugs and syntax errors
+- Deployed it to GitHub
+- Are ready to share it with the world
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+**Well done! 🚀**
