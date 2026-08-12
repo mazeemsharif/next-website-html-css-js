@@ -71,5 +71,5 @@ Inspired by modern responsive design principles
 Images sourced from Unsplash
 
 📞 Contact
-Mazeem Sharif
+M Azeem Sharif
 GitHub: @mazeemsharif
