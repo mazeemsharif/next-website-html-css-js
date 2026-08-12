@@ -34,8 +34,8 @@ next-website-html-css-js/
 ├── pic2.jpg
 ├── pic3.jpg
 ├── pic4.jpg
-├── andras-vas-.jpg
-└── christopher-gower-.jpg
+├── andras-vas-unsplash.jpg
+└── christopher-gower-unsplash.jpg
 
 text
 
