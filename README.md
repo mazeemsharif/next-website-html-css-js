@@ -31,6 +31,7 @@ next-website-html-css-js/
 ├── app.js # JavaScript functionality
 │
 └── images/ # Image assets
+
 ├── pic1.svg
 ├── pic2.jpg
 ├── pic3.jpg
